@@ -1,6 +1,5 @@
-# Healthcare Analysis and Billing Prediction
-
-This project aims to analyze healthcare trends and predict hospital billing amounts based on patient demographics, medical conditions, and other features. Using machine learning, we develop a predictive model for hospital billing and visualize key insights related to healthcare costs, patient conditions, and hospital stays. The repository contains the Python code for the machine learning model and a Tableau dashboard showcasing key healthcare metrics.
+# Healthcare Analysis and Sales Enchanement
+This project aims to analyze healthcare trends and enhance hospital revenue based on patient demographics, medical conditions, and other features. Using machine learning, we develop a predictive model for hospital billing and visualize key insights related to healthcare costs, patient conditions, and hospital stays. The repository contains the Python code for the machine learning model and a Tableau dashboard showcasing key healthcare metrics.
 
 ---
 
