@@ -102,6 +102,6 @@ The Tableau dashboard visualizes healthcare data, providing clear insights into 
 
 ---
 
-This README file provides an overview of the **Healthcare Analysis and Billing Prediction** project, outlining the objectives, approach, and results, along with next steps for further improvement and deployment.
+This README file provides an overview of the **Healthcare Analysis and Sale Enchanement** project, outlining the objectives, approach, and results, along with next steps for further improvement and deployment.
 
 
