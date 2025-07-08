@@ -1,4 +1,4 @@
-# Healthcare Analysis and Sales Enchanement
+# Healthcare Analysis and Sales Enhancement
 This project aims to analyze healthcare trends and enhance hospital revenue based on patient demographics, medical conditions, and other features. Using machine learning, we develop a predictive model for hospital billing and visualize key insights related to healthcare costs, patient conditions, and hospital stays. The repository contains the Python code for the machine learning model and a Tableau dashboard showcasing key healthcare metrics.
 
 ---
@@ -102,6 +102,6 @@ The Tableau dashboard visualizes healthcare data, providing clear insights into 
 
 ---
 
-This README file provides an overview of the **Healthcare Analysis and Sale Enchanement** project, outlining the objectives, approach, and results, along with next steps for further improvement and deployment.
+This README file provides an overview of the **Healthcare Analysis and Sale Enhancement** project, outlining the objectives, approach, and results, along with next steps for further improvement and deployment.
 
 
